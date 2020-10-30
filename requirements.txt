@@ -1,25 +1,5 @@
-astroid==2.3.3
-certifi==2020.6.20
-colorama==0.4.3
-cycler==0.10.0
-dlib @ file:///D:/bld/dlib_1602513956312/work
-imutils @ file:///D:/bld/imutils_1594126202390/work
-isort==4.3.21
-kiwisolver @ file:///D:/bld/kiwisolver_1602517369422/work
-lazy-object-proxy==1.4.3
-matplotlib @ file:///D:/bld/matplotlib-suite_1602600987968/work
-mccabe==0.6.1
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
-olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
-Pillow @ file:///D:/bld/pillow_1603406849807/work
-pylint==2.4.4
-pyparsing==2.4.7
-python-dateutil==2.8.1
-scipy @ file:///C:/ci/scipy_1592916963468/work
-six==1.14.0
-tornado @ file:///D:/bld/tornado_1602489173250/work
-wincertstore==0.2
-wrapt==1.11.2
+cmake==3.18.2.post1
+dlib==19.21.0
+imutils==0.5.3
+numpy==1.19.3
+opencv-python==4.4.0.44
